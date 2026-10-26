@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+
+# 转换产物 / 测试文件
+*.cleaned.docx
+*.cleanreport.md
+!requirements.txt
+
+# 系统
+.DS_Store
+Thumbs.db
